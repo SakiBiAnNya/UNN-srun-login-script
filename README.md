@@ -39,3 +39,4 @@ always_online.py可采用`nohup`命令挂在后台：
 nohup python always_online.py &
 ```
 Windows可以在计算机管理-创建任务计划，触发器自定，添加操作-启动程序-程序或脚本为你的Python安装目录（Python.exe）,添加参数为脚本文件的绝对路径。
+测试时间：2023年12月
