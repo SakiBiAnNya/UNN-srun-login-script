@@ -12,7 +12,9 @@ fork自：
 
 详细文档见原fork和原作者：
 https://github.com/henry-tujia/UCAS-srun-login-script
+
 https://github.com/coffeehat/BIT-srun-login-script
+
 [深澜校园网登录的分析与python实现-北京理工大学版](https://zhuanlan.zhihu.com/p/122556315)
 
 # 文件说明
