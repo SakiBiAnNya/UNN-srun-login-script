@@ -23,7 +23,7 @@ https://github.com/coffeehat/BIT-srun-login-script
 |demo.py|登录示例脚本|
 |always_online.py|在线监测脚本，如果监测到掉线则自动重连|
 
-修改always_online.py、login.py、logout.py文件里的：
+修改always_online.py、login.py、logout.py文件里的用户名和密码：
 
     lm.logout(
         username = "username"#填入你的账号
